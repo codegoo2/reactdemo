@@ -12,6 +12,7 @@ export const ParentCircle = () => (
   <AvatarPair>
     <Avatar src="https://avatars.githubusercontent.com/u/92997159?v=4" />
     <Avatar square src="https://avatars.githubusercontent.com/primer" />
+  
   </AvatarPair>
 )
 
