@@ -168,7 +168,8 @@ const AutocompleteInput = React.forwardRef(
         autoComplete="off"
         id={id}
         {...props}
-      />
+      
+        />
     )
   },
 ) as PolymorphicForwardRefComponent<typeof TextInput, InternalAutocompleteInputProps>
